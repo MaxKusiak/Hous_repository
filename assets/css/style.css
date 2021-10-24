@@ -1,0 +1,42 @@
+table{
+    background: linear-gradient(#020024, #790909, #ff9500);
+    text-align: center;
+    font-size: 23px;
+}
+caption{
+    color: #2d10af;
+    font-size: 40px;
+}
+th{
+    width: 200px;
+    height: 100px;
+}
+td{
+    width: 200px;
+    height: 100px;
+}
+th.red:hover{
+    color: red;
+    background: linear-gradient(#001d24, #096479, #ff9500);
+}
+th.blue:hover{
+    color: blue;
+    background: linear-gradient(#001d24, #096479, #ff9500);
+}
+th.yellow:hover{
+    color: yellow;
+    background: linear-gradient(#001d24, #096479, #ff9500);
+}
+td:hover{
+    background: linear-gradient(#001d24, #096479, #ff9500);
+}
+caption:hover{
+    color: red;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+a{
+    font-size: 40px;
+}
